@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>prev</title>
+    <desc>Created with Sketch.</desc>
+    <g id="folga_design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-160.000000, -5560.000000)" fill-rule="nonzero" id="art9">
+            <g transform="translate(160.000000, 5339.000000)">
+                <g id="Group-6" transform="translate(0.000000, 103.000000)">
+                    <g id="prev" transform="translate(0.000000, 118.000000)">
+                        <rect id="Rectangle" fill="#00E49E" x="0" y="0" width="64" height="64" rx="8"></rect>
+                        <g id="flaticon1550589403-svg" transform="translate(31.500000, 32.000000) scale(-1, 1) translate(-31.500000, -32.000000) translate(23.000000, 20.000000)" fill="#143254">
+                            <path d="M16.7630968,11.5294117 L0.859870968,0.100563018 C0.691516129,-0.0200113361 0.473258065,-0.0325830697 0.293387097,0.0651335868 C0.112967742,0.163993128 0,0.358283556 0,0.570860142 L0,23.4285576 C0,23.6411342 0.112967742,23.835996 0.293387097,23.9348556 C0.373451613,23.9782852 0.461193548,24 0.548387097,24 C0.657516129,24 0.766096774,23.9657135 0.859870968,23.8988547 L16.7630968,12.470006 C16.9117097,12.3631462 17,12.1877134 17,11.9997089 C17,11.8117043 16.9111613,11.6362715 16.7630968,11.5294117 Z" id="Path"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
